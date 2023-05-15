@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zipeth1010
+- 👋 Hi, I’m Mark Christensen
 - 👀 I’m interested in full stack software development. 
 - 🌱 I’m currently learning both front-end (HTML, CSS, Javascript + React) and back-end (Javascript + Express.js, SQL) at the minute 
 but will later look to specialize in back-end down the line.
