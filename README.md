@@ -2,7 +2,6 @@
 - 👀 I’m interested in full stack software development. 
 - 🌱 I’m currently learning both front-end (HTML, CSS, Javascript + React) and back-end (Javascript + Express.js, SQL) at the minute 
 but will later look to specialize in back-end down the line.
-- 💞️ I’m looking to collaborate on different back-end projects to diversify my portfolio and hopefully land me my first entry level job. 
 - 📫 How to reach me; email: markchristensen1010@gmail.com.
 
 <!---
