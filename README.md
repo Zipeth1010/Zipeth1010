@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mark Christensen
 - 👀 I’m interested in full stack software development. 
 - 🌱 I’m currently learning both front-end (HTML, CSS, Javascript + React) and back-end (Javascript + Express.js, SQL) at the minute 
-but will later look to specialize in back-end down the line.
+and am looking for the best opportunity to develop my knowledge and understanding of software development.
 - 📫 How to reach me; email: markchristensen1010@gmail.com.
 
 <!---
